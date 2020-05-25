@@ -1,5 +1,4 @@
 //这里是服务端！！
-//336行需要修改 其他好像还能工作
 //74-76处理线程
 #include "winsock2.h"
 #include <WS2tcpip.h>
